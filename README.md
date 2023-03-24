@@ -13,7 +13,7 @@
     - Visualization
 
 # TASK
-- As a junior data analyst in Cyclistic's marketing team, your task is to assist in devising marketing strategies that target casual riders with the aim of converting them into annual members. The marketing director believes that the company's success in the future hinges on maximizing the number of annual memberships. 
+- As a junior data analyst in Cyclistic's marketing team, my task was to assist in devising marketing strategies that target casual riders with the aim of converting them into annual members. The marketing director believes that the company's success in the future hinges on maximizing the number of annual memberships. 
 - However, before presenting their recommendations, Cyclistic's executives require compelling data insights and professional data visualizations to back up the proposed strategies.
 - The team's objective is to analyze Cyclistic's historical bike trip data to identify trends that will shed light on the differences between casual riders and annual members, why casual riders would be interested in purchasing a membership, and how digital media could impact the effectiveness of their marketing tactics.
 # ASK PHASE:
@@ -54,6 +54,7 @@ By gaining a deeper understanding of our users' behavior, we can provide the mar
 
 ### Now, to answer Moreno’s and her team’s request, which was: To design marketing strategies to convert casual riders into annual members. I would suggest the following:
     - We can clearly see a peak in casual riders on a few occasions: On the weekends as well as in the months of June, July & August. we should prioritize marketing during these periods.
+    <img width="842" alt="Screenshot 2023-03-24 at 07 32 15" src="https://user-images.githubusercontent.com/103274172/227456845-ecf8b302-f29a-463c-81eb-212d15669168.png">
     - As a follow up to the previous suggestions, we should advertise promotions during these months to allow casual members upgrade to annual members at a discount.
     - I would suggest strategically enforcing location-based advertisements (featured on Instagram & Facebook) to target the top 10 popular stations among the casual members.
     - Increasing the pricing of single-day & full-day passes while simultaneously emphasising the appeal of membership. By strategically pricing it higher, it would appeal to upgrade to an annual membership.
@@ -62,3 +63,5 @@ By gaining a deeper understanding of our users' behavior, we can provide the mar
 - It would be great if I had a dataset that did not format single-ride passes and full-day passes into ‘casual’ in the member types as we would be able to more intricately analyze the data regarding trip durations and make more specific recommendations
 - Unique user IDs would allow me to count how many times an individual has used the service which would allow for more intricate and strategic promotions
 - Casual riders tend to make the most of their trips on Wednesdays and Thursdays. 
+
+<img width="791" alt="Screenshot 2023-03-24 at 07 32 26" src="https://user-images.githubusercontent.com/103274172/227456728-a1c8779b-3dbe-425e-9d59-cc0cf106187c.png"> 
