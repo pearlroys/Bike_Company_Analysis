@@ -57,12 +57,12 @@ However, in my other projects I'd ideally use  a cloud-based storage service lik
     - Encourage current users to utilise a hashtag on social media to express their own experiences with Cyclistic and how it has impacted their life in order to foster a feeling of community.
 
 ### Now, to answer Moreno’s and her team’s request, which was: To design marketing strategies to convert casual riders into annual members. I would suggest the following:
-    We can clearly see a peak in casual riders on a few occasions: On the weekends as well as in the months of June, July & August. we should prioritize marketing during these periods.
+We can clearly see a peak in casual riders on a few occasions: On the weekends as well as in the months of June, July & August. we should prioritize marketing during these periods.
    
 <img width="842" alt="Screenshot 2023-03-24 at 07 32 15" src="https://user-images.githubusercontent.com/103274172/227457128-edeced7a-3bca-46d5-bd02-34c224e44086.png">
-   As a follow up to the previous suggestions, we should advertise promotions during these months to allow casual members upgrade to annual members at a discount.
-   I would suggest strategically enforcing location-based advertisements (featured on Instagram & Facebook) to target the top 10 popular stations among the casual members.
-  Increasing the pricing of single-day & full-day passes while simultaneously emphasising the appeal of membership. By strategically pricing it higher, it would appeal to upgrade to an annual membership.
+As a follow up to the previous suggestions, we should advertise promotions during these months to allow casual members upgrade to annual members at a discount.
+I would suggest strategically enforcing location-based advertisements (featured on Instagram & Facebook) to target the top 10 popular stations among the casual members.
+Increasing the pricing of single-day & full-day passes while simultaneously emphasising the appeal of membership. By strategically pricing it higher, it would appeal to upgrade to an annual membership.
 
 ### Additional remarks:
 - It would be great if I had a dataset that did not format single-ride passes and full-day passes into ‘casual’ in the member types as we would be able to more intricately analyze the data regarding trip durations and make more specific recommendations
