@@ -1,6 +1,8 @@
 # bike_company-analysis
 # The Tools 
-    - Python, SQL, Tableau (Tableau Public since I don’t currently have a Tableau Desktop subscription), Kaggle to source data
+    - Python, SQL, 
+    Tableau (Tableau Public since I don’t currently have a Tableau Desktop subscription), 
+    Kaggle to source data
 - The Steps 
     - Source data (CSVs from Kaggle)
     - Create a BigQuery dataset and associated tables
@@ -24,7 +26,7 @@
     - The data was inspected and I tried to make sense of the different fields and rows using excel.
     
 ## PROCESS:
-    - Now, brace yourself for a thrilling data adventure! To streamline our analysis, I combined multiple files and read it using Pandas. After scrubbing the data to remove duplicates, deleting rows with invalid ride start and end times, adding more columns such month, day of the week and time used . I proceeded to query the data with SQL.
+ Now, brace yourself for a thrilling data adventure! To streamline our analysis, I combined multiple files and read it using Pandas. After scrubbing the data to remove duplicates, deleting rows with invalid ride start and end times, adding more columns such month, day of the week and time used . I proceeded to query the data with SQL.
     
     - 
 <img width="593" alt="Screenshot 2023-03-24 at 07 27 08" src="https://user-images.githubusercontent.com/103274172/227455458-0688998e-7549-4212-9c98-fda651bf5425.png">
