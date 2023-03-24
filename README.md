@@ -1,9 +1,9 @@
 # Bike_Company_Analysis
 # The Tools 
-   Python
-   SQL
+   Python,
+   SQL,
    Tableau (Tableau Public since I don’t currently have a Tableau Desktop subscription), 
-   Excel
+   Excel.
 - The Steps 
     - Source data (CSVs from Kaggle)
     - Create a BigQuery dataset and associated tables
