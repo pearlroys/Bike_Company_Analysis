@@ -67,6 +67,6 @@ Increasing the pricing of single-day & full-day passes while simultaneously emph
 ### Additional remarks:
 - It would be great if I had a dataset that did not format single-ride passes and full-day passes into ‘casual’ in the member types as we would be able to more intricately analyze the data regarding trip durations and make more specific recommendations
 - Unique user IDs would allow me to count how many times an individual has used the service which would allow for more intricate and strategic promotions
-- Casual riders tend to make the most of their trips on Wednesdays and Thursdays. 
+- member riders tend to make the most of their trips on Wednesdays and Thursdays. 
 
 <img width="791" alt="Screenshot 2023-03-24 at 07 32 26" src="https://user-images.githubusercontent.com/103274172/227456728-a1c8779b-3dbe-425e-9d59-cc0cf106187c.png"> 
