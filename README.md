@@ -17,13 +17,13 @@
 - However, before presenting their recommendations, Cyclistic's executives require compelling data insights and professional data visualizations to back up the proposed strategies.
 - The team's objective is to analyze Cyclistic's historical bike trip data to identify trends that will shed light on the differences between casual riders and annual members, why casual riders would be interested in purchasing a membership, and how digital media could impact the effectiveness of their marketing tactics.
 ## ASK PHASE:
-    - I carefully reviewed and analyzed the needs and expectations of the stakeholders,  i then dived into the exciting task at hand! We need to uncover patterns within the data that will allow us to distinguish between casual riders and members. 
-    - By gaining a deeper understanding of our users' behavior, we can provide the marketing team with valuable insights that will help them create more effective strategies. This is an opportunity for us to explore and uncover new, game-changing discoveries that will help drive the success of our business. Let's get started!
+    I carefully reviewed and analyzed the needs and expectations of the stakeholders,  i then dived into the exciting task at hand! We need to uncover patterns within the data that will allow us to distinguish between casual riders and members. 
+    By gaining a deeper understanding of our users' behavior, we can provide the marketing team with valuable insights that will help them create more effective strategies. This is an opportunity for us to explore and uncover new, game-changing discoveries that will help drive the success of our business. Let's get started!
     
 ## PREPARE:
-    - The data is provided to us as CSV files, with each file containing data for a single month.
-    - The case study's dataset was downloaded , I had to download information from the previous 12 months. I downloaded trip information from December 2021 to December 2022. The datasets are available here. It is a public dataset that Motivate International Inc. has made available.
-    - The data was inspected and I tried to make sense of the different fields and rows using excel.
+    The data is provided to us as CSV files, with each file containing data for a single month.
+    The case study's dataset was downloaded , I had to download information from the previous 12 months. I downloaded trip information from December 2021 to December 2022. The datasets are available here. It is a public dataset that Motivate International Inc. has made available.
+    The data was inspected and I tried to make sense of the different fields and rows using excel.
     
 ## PROCESS:
  Now, brace yourself for a thrilling data adventure! To streamline our analysis, I combined multiple files and read it using Pandas. After scrubbing the data to remove duplicates, deleting rows with invalid ride start and end times, adding more columns such month, day of the week and time used . I proceeded to query the data with SQL.
