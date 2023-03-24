@@ -33,7 +33,7 @@ By gaining a deeper understanding of our users' behavior, we can provide the mar
     - While Pandas is a popular option, using SQL Is the go-to language for querying and manipulating data. In the code I provided, I used SQL Lite.
 However, in my other projects I'd ideally use  a cloud-based storage service like GCP, AWS, or Azure to store and query the data. The end result? A pristine dataset that's ready to reveal its secrets and help us make informed business decisions. 
     <img width="914" alt="Screenshot 2023-03-24 at 07 28 14" src="https://user-images.githubusercontent.com/103274172/227455555-2a3767ad-7bd4-41f8-946e-4370d6ff5e73.png">
-- 
+ 
 # ANALYZE:
 - When you first encounter a new dataset, it's important to approach it with an open mind and a sense of curiosity. Resist the temptation to dive too deep into insights right away. Instead, start by exploring the data and writing queries that you think will yield interesting results. Allow yourself to play and experiment with different approaches, and don't be afraid to follow unexpected paths. Who knows what hidden gems you might uncover? To help you get started, here are some starter queries I used to get 'friendly' with my dataset 😂 .
 - <img width="717" alt="Screenshot 2023-03-24 at 07 29 04" src="https://user-images.githubusercontent.com/103274172/227454913-30853fcb-02b1-493e-bd66-4923cb4263ab.png">
