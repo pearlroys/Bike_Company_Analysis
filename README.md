@@ -31,9 +31,9 @@ By gaining a deeper understanding of our users' behavior, we can provide the mar
  
 <img width="593" alt="Screenshot 2023-03-24 at 07 27 08" src="https://user-images.githubusercontent.com/103274172/227455458-0688998e-7549-4212-9c98-fda651bf5425.png">
     - While Pandas is a popular option, using SQL Is the go-to language for querying and manipulating data. In the code I provided, I used SQL Lite.
-    - Path('merged_cyclistic.db').touch()
-    - cyclist_conn = sqlite3.connect('merged_cyclistic.db')
-    - cyclist_cursor = cyclist_conn.cursor()
+    ``` Path('merged_cyclistic.db').touch()
+       cyclist_conn = sqlite3.connect('merged_cyclistic.db')
+       cyclist_cursor = cyclist_conn.cursor() ```
 However, in my other projects I'd ideally use  a cloud-based storage service like GCP, AWS, or Azure to store and query the data. The end result? A pristine dataset that's ready to reveal its secrets and help us make informed business decisions. 
     <img width="914" alt="Screenshot 2023-03-24 at 07 28 14" src="https://user-images.githubusercontent.com/103274172/227455555-2a3767ad-7bd4-41f8-946e-4370d6ff5e73.png">
 - 
