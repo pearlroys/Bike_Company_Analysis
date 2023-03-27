@@ -6,7 +6,7 @@
    Excel.
 - The Steps 
     - Source data (CSVs from Kaggle)
-    - Create a BigQuery dataset and associated tables
+    - Create a dataset and associated tables
     - Query data using Python
     - Push finalized CSV to Google Drive
     - Connect to cleaned CSVs using Tableau Public
